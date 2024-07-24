@@ -1,0 +1,10 @@
+Flask
+google-cloud-datastore
+authlib
+requests
+python-jose
+jose
+six
+werkzeug==2.2.2
+setuptools
+protobuf==3.20.*

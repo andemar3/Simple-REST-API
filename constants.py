@@ -1,0 +1,9 @@
+boats = "boats"
+users = "users"
+loads = "loads"
+json = 'application/json'
+MAX_STR_LEN = 100
+res_406 = {'Error': 'Server cannot return requested media type'}
+res_unique_name = {'Error': 'This name is not unique'}
+res_404 = {'Error': 'Item not found'}
+MAX_LIMIT = 5
